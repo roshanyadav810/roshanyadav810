@@ -4,16 +4,16 @@ let mySummary = (()=>{
     let phoneNumber = "+91-9911446312";
     let skillls = {
         expert : {
-            languages : ["JavaScript","Java"],
-            frameworks : ["Express","jersey"],
-            databases : ["mongodb","mySql"],
+            languages : ["Java","Javascript"],
+            frameworks : ["spring","Express","jersey"],
+            databases : ["MySql","MongoDb"],
             cloud : {
                 "AWS" : ["SQS","S3","EC2","ELB","lambda","Route 53","SNS"]
             } 
         },
         familiarWith :{
-            languages : ["python"],
-            frameworks : ["flask","spring"],
+            languages : ["python","Go"],
+            frameworks : ["flask"],
             databases : ["dynmoDB","elasticSearch"]
         }
 
