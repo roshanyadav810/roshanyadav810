@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Roshan Yadav
+<h1 align="center">👋 Hi, I'm <span style="font-size: 2rem;">Roshan Yadav</span></h1>
 
-I'm a **Tech Lead** with 8+ years of experience in building and scaling systems and secure fintech applications. I specialize in designing high-performance, cloud-native solutions with a strong focus on system security and engineering excellence.
+<p align="center"><strong>Tech Lead · Backend Specialist · Cloud-native Architect</strong></p>
 
 ---
 
@@ -16,29 +16,29 @@ I'm a **Tech Lead** with 8+ years of experience in building and scaling systems 
 
 ## 🚀 Tech Stack
 
-**Languages:**  
-`Java` `JavaScript` `TypeScript` `SQL`
+**Languages**  
+`Java` · `JavaScript` · `TypeScript` · `SQL`
 
-**Frameworks & Libraries:**  
-`Spring Boot` `Express.js` `React` `Next.js` `TailwindCSS`
+**Frameworks & Libraries**  
+`Spring Boot` · `Express.js` · `React` · `Next.js` · `TailwindCSS`
 
-**Cloud &:**  
-`AWS` `Docker` `GitHub Actions` `ECS` `Lambda`
+**Cloud & DevOps**  
+`AWS` · `Docker` · `GitHub Actions` · `ECS` · `Lambda`
 
-**Databases:**  
-`MySQL` `PostgreSQL` `Redis` `MongoDB` `DynamoDB`
+**Databases**  
+`MySQL` · `PostgreSQL` · `Redis` · `MongoDB` · `DynamoDB`
 
-**Tools & Utilities:**  
-`Prisma` `Flyway` `Cursor` `Postman` `Vercel`
+**Tools & Utilities**  
+`Prisma` · `Flyway` · `Cursor` · `Postman` · `Vercel`
 
 ---
 
 ## 📫 Get in Touch
 
-- 📧 Email: [roshanyadav810@gmail.com](mailto:shanyadav810@gmail.com)  
+- 📧 Email: [roshanyadav810@gmail.com](mailto:roshanyadav810@gmail.com)  
 - 📞 Phone: +91 9911446312  
 - 🔗 LinkedIn: [linkedin.com/in/roshanyadav810](https://linkedin.com/in/roshanyadav810)
 
 ---
 
-_“Building useful software with purpose and security in mind.”_
+<p align="center"><em>“Building useful software with purpose and security in mind.”</em></p>
