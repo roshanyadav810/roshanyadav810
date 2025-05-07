@@ -1,34 +1,44 @@
-let mySummary = (()=>{
-    let name = "Roshan yadav";
-    let email = "roshanyadav810@gmail.com";
-    let phoneNumber = "+91-9911446312";
-    let skillls = {
-        expert : {
-            languages : ["Java","Javascript"],
-            frameworks : ["spring","Express","jersey"],
-            databases : ["MySql","MongoDb"],
-            cloud : {
-                "AWS" : ["SQS","S3","EC2","ELB","lambda","Route 53","SNS"]
-            } 
-        },
-        familiarWith :{
-            languages : ["python","Go"],
-            frameworks : ["flask"],
-            databases : ["dynmoDB","elasticSearch"]
-        }
+# 👋 Hi, I'm Roshan Yadav
 
-    }
-    
-    let aboutMe = ()=>{
-        console.log(`
-        Hi, i'm ${this.name}, a passionate, IIIT-Allahabad graduate backend developer.
-            my passion for software lies with dreaming up ideas and making them come 
-            true with elegant interfaces. i take great care in the experience, architecture, 
-            and code quality of the things I build.`);
-    };
-    return aboutMe;
+I'm a **Tech Lead** with 8+ years of experience in building and scaling systems and secure fintech applications. I specialize in designing high-performance, cloud-native solutions with a strong focus on system security and engineering excellence.
 
-})();
+---
 
+## 💼 What I Do
 
-mySummary();
+- 🔧 Lead backend development using **Java (Spring Boot)** and **Node.js**
+- 🌐 Architect frontend systems with **React**, **Next.js**, and **TailwindCSS**
+- ☁️ Build and deploy cloud-native applications on **AWS**
+- 🔐 Drive secure API architectures with **KMS encryption** and **Zero Trust Principles**
+- 🚀 Guide teams on engineering best practices, code quality, and scalable design
+
+---
+
+## 🚀 Tech Stack
+
+**Languages:**  
+`Java` `JavaScript` `TypeScript` `SQL`
+
+**Frameworks & Libraries:**  
+`Spring Boot` `Express.js` `React` `Next.js` `TailwindCSS`
+
+**Cloud &:**  
+`AWS` `Docker` `GitHub Actions` `ECS` `Lambda`
+
+**Databases:**  
+`MySQL` `PostgreSQL` `Redis` `MongoDB` `DynamoDB`
+
+**Tools & Utilities:**  
+`Prisma` `Flyway` `Cursor` `Postman` `Vercel`
+
+---
+
+## 📫 Get in Touch
+
+- 📧 Email: [roshanyadav810@gmail.com](mailto:shanyadav810@gmail.com)  
+- 📞 Phone: +91 9911446312  
+- 🔗 LinkedIn: [linkedin.com/in/roshanyadav810](https://linkedin.com/in/roshanyadav810)
+
+---
+
+_“Building useful software with purpose and security in mind.”_
